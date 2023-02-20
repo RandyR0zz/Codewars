@@ -1,7 +1,5 @@
 #### Contents:
 
----
-
 <a href="https://github.com/RandyR0zz/Codewars/tree/main/Python">Python:</a>
 
 <ul type="square">
