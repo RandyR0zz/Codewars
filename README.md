@@ -1,6 +1,4 @@
-#### Contents:
-
-<a href="https://github.com/RandyR0zz/Codewars/tree/main/Python">Python:</a>
+### <a href="https://github.com/RandyR0zz/Codewars/tree/main/Python">Python:</a>
 
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/5_kyu">5 kyu</a></li>
